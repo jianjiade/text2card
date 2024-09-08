@@ -4,7 +4,8 @@
 
 @font-face {
   font-family: 'Huiwen_mingchao';
-  src: url('../public/fonts/Huiwen_mingchao.woff2') format('woff2');
+  src: url('../public/fonts/FZXiJinLJW.TTF') format('truetype');
+    /* src: url('../public/fonts/Huiwen_mingchao.woff2') format('woff2'); */
   font-weight: normal;
   font-style: normal;
   font-display: swap;
